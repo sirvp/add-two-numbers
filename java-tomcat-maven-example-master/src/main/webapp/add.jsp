@@ -27,6 +27,6 @@
     </head>
     
     <body>
-    <%= "Sum(request.getParameter("integer1"),request.getParameter("integer2")))"%>
+    <%= Sum(request.getParameter("integer1"),request.getParameter("integer2")))%>
     </body>
 </html>
